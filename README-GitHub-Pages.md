@@ -23,3 +23,4 @@
 ## 後續新增章節
 
 新增章節時，可以複製 `chapter-01.html`，改成 `chapter-02.html`，再把首頁的章節列表加上一筆連結。
+Deployment refresh.
